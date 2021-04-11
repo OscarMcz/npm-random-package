@@ -1,0 +1,28 @@
+{
+  "name": "oscarmcz-random-messages",
+  "version": "1.0.1",
+  "description": "random de mensajes, I don't know what to write for the first commit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Oscar Martinez <oscar1793@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarMcz/npm-random-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OscarMcz/npm-random-package/issues"
+  },
+  "homepage": "https://github.com/OscarMcz/npm-random-package#readme"
+}
